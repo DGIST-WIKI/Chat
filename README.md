@@ -1,2 +1,6 @@
-# Chat
-Chat 익스텐션 개선. 위키 전체에서 채팅방이 하나밖에 없음. 맨 처음 Special:Chat 페이지로 가면 로비가 있고, 네이버 카페 채팅처럼 채팅방을 생성할 수 있도록 한다.
+MediaWikiChat
+=============
+
+A lightweight chat extension for mediawiki
+
+Developed for Brickimedia, but please feel free to use it on your own projects.
